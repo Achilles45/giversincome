@@ -14,7 +14,7 @@
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>giversincomeinvestment@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:07026035834"> 07026035834</a></p>
+                <p><a href="tel:07043820741"> 07043820741</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>

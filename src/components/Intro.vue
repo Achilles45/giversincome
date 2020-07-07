@@ -14,7 +14,7 @@
 
             Invest your money today and get 60% interest within 4 days using our investment programme. Buy and Sell Bitcoin with the leading bitcoin exchange provider, we also grant load to our customers who have successfully crossed their top up level which is 50k.
 
-            TAKE NOTE! GENESIS INVESTMENT PROGRAMME SUPPORTS 100% INVESTMENT RECOMMITMENT POLICY FOR ALL NEW MEMBERS.</p>
+            TAKE NOTE! GIVERS INCOME INVESTMENT PROGRAMME SUPPORTS 100% INVESTMENT RECOMMITMENT POLICY FOR ALL NEW MEMBERS.</p>
                <router-link to="/signup" class="intro-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
           <div class="col-md-1"></div>
