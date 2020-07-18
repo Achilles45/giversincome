@@ -17,22 +17,20 @@
                <div class="form-group">
                       <small id="passwordHelpBlock" class="form-text text-muted">Select your Amount</small>
                   <select class="form-control" id="inlineFormCustomSelect" v-model="account_type">
-                            <option value="10,000">&#8358;10,000 to &#8358;15,000</option>
-                            <option value="20,000">&#8358;20,000 to &#8358;30,000</option>
-                            <option value="30,000">&#8358;30,000 to &#8358;45,000</option>
-                            <option value="40,000">&#8358;40,000 to &#8358;60,000</option>
-                            <option value="50,000">&#8358;50,000 to &#8358;75,000</option>
-                            <option value="60,000">&#8358;60,000 to &#8358;90,000</option>
-                            <option value="70,000">&#8358;70,000 to &#8358;105,000</option>
-                            <option value="80,000">&#8358;80,000 to &#8358;120,000</option>
-                            <option value="90,000">&#8358;90,000 to &#8358;135,000</option>
-                            <option value="100,000">&#8358;100,000 to &#8358;150,000</option> 
-                            <option value="200,000">&#8358;200,000 to &#8358;300,000</option> 
-                            <option value="300,000">&#8358;300,000 to &#8358;450,000</option> 
-                            <option value="400,000">&#8358;400,000 to &#8358;600,000</option> 
-                            <option value="500,000">&#8358;500,000 to &#8358;750,000</option> 
-                            <option value="600,000">&#8358;600,000 to &#8358;900,000</option> 
-                            <option value="700,000">&#8358;700,000 to &#8358;1,050,000</option> 
+                            <option value="10,000">&#8358;10,000 to &#8358;16,000</option>
+                            <option value="20,000">&#8358;20,000 to &#8358;32,000</option>
+                            <option value="30,000">&#8358;30,000 to &#8358;46,000</option>
+                            <option value="40,000">&#8358;40,000 to &#8358;64,000</option>
+                            <option value="50,000">&#8358;50,000 to &#8358;80,000</option>
+                            <option value="60,000">&#8358;60,000 to &#8358;96,000</option>
+                            <option value="70,000">&#8358;70,000 to &#8358;112,000</option>
+                            <option value="80,000">&#8358;80,000 to &#8358;128,000</option>
+                            <option value="90,000">&#8358;90,000 to &#8358;144,000</option>
+                            <option value="100,000">&#8358;100,000 to &#8358;160,000</option> 
+                            <option value="200,000">&#8358;200,000 to &#8358;320,000</option> 
+                            <option value="300,000">&#8358;300,000 to &#8358;480,000</option> 
+                            <option value="400,000">&#8358;400,000 to &#8358;640,000</option> 
+                            <option value="500,000">&#8358;500,000 to &#8358;800,000</option> 
                              <option value="50,000 promo">&#8358;50,000 to &#8358;150,000 (Promo plan)</option>
                             <option value="100,000 promo">&#8358;100,000 to &#8358;300,000 (Promo plan)</option>
                             <option value="200,000 promo">&#8358;200,000 to &#8358;600,000 (Promo plan)</option>

@@ -2,14 +2,14 @@ import firebase from 'firebase';
 import firestore from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCZii2ztzKHC9crIF0FV05aus1Ce_cAJsk",
-  authDomain: "genesis-investment.firebaseapp.com",
-  databaseURL: "https://genesis-investment.firebaseio.com",
-  projectId: "genesis-investment",
-  storageBucket: "genesis-investment.appspot.com",
-  messagingSenderId: "576946517992",
-  appId: "1:576946517992:web:69fd32f2fb742b7eac965d",
-  measurementId: "G-W5E64JMH87"
+  apiKey: "AIzaSyDJlFAMX5-MzpzMT6-5SDVw5M3EUXEvUD8",
+  authDomain: "givers-income.firebaseapp.com",
+  databaseURL: "https://givers-income.firebaseio.com",
+  projectId: "givers-income",
+  storageBucket: "givers-income.appspot.com",
+  messagingSenderId: "319162953899",
+  appId: "1:319162953899:web:cab8ebae4e95e8616407ee",
+  measurementId: "G-DYPFC4H5G1"
 };
   // Initialize Firebase
   const firebaseApp = firebase.initializeApp(firebaseConfig);
