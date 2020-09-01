@@ -8,9 +8,6 @@
                   <p class="intro">This commission was created to help and  support it's registered members financially and also to help increase economic growth in the  society as well. Our intentions are genuie and pure.</p>
               </div>
                <div class="col-md-4">
-                  <h5>Our Location & Contact</h5>
-                <h6><i class="fa fa-home"></i> Head Office</h6>
-                <p>NO.16 Alabarao Market, Badagry Express Way, Okokomaiko, Lagos State, Nigeria.</p>
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>giversincomeinvestment@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>

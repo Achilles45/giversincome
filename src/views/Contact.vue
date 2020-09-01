@@ -30,12 +30,6 @@
                     </div>
                   </div><br>
                    <div class="col-md-4">
-                      <div class="info__wrapper d-flex align-items-center">
-                     <div class="icon__wrapper">
-                            <p><i class="fa fa-home"></i></p>
-                     </div>
-                        <p class="pl-3">NO.16 Alabarao Market, Badagry Express Way, Okokomaiko,Lagos State, Nigeria.</p>
-                    </div>
                   </div>
                   <br>
               </div>
