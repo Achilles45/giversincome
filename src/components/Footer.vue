@@ -9,9 +9,9 @@
               </div>
                <div class="col-md-4">
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
-                <p>giversincomeinvestment@gmail.com</p>
+                <p>brightfure45@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:07043820741"> 07043820741</a></p>
+                <p><a href="tel:07043820741"> 07018400385</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>
@@ -26,7 +26,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-12">
-                      <p>Givers Income Investment Company &copy; All Right Reserved, 2020</p>
+                      <p>Bright Future Investment Company &copy; All Right Reserved, 2020</p>
                   </div>
               </div>
           </div>

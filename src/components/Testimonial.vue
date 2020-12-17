@@ -17,7 +17,7 @@
 	<div class="carousel-inner">		
 		<div class="item carousel-item active">
 			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
-			<p class="testimonial">Wawo, i just got my money..Givers income investment is real, l have never seen a platform that this easy to pay, easy to receive,and easy to be confirmed..God bless you guys, l love you all and may God keep strengthen to this..Thank you so much..</p>
+			<p class="testimonial">Wawo, i just got my money..Bright Future investment is real, l have never seen a platform that this easy to pay, easy to receive,and easy to be confirmed..God bless you guys, l love you all and may God keep strengthen to this..Thank you so much..</p>
 			<p class="overview"><b>Owoh, Ann Echeleme</b>Investor</p>
 			<div class="star-rating">
 				<ul class="list-inline">
@@ -31,7 +31,7 @@
 		</div>
 		<div class="item carousel-item">
 			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
-			<p class="testimonial">Thank you Givers income investment.. Am so happy to be part of this platform</p>
+			<p class="testimonial">Thank you Bright Future investment.. Am so happy to be part of this platform</p>
 			<p class="overview"><b> Abajingin Ayokanmi D</b>Investor</p>
 			<div class="star-rating">
 				<ul class="list-inline">
@@ -59,7 +59,7 @@
 		</div>	
 		<div class="item carousel-item">
 			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
-			<p class="testimonial">They have done it again, alert keeps on entering, thanks to the day I joined this great platform, it keeps making me smiling every now and then, thanks Givers income investment</p>
+			<p class="testimonial">They have done it again, alert keeps on entering, thanks to the day I joined this great platform, it keeps making me smiling every now and then, thanks Bright Future investment</p>
 			<p class="overview"><b>Iheanyichukwu Uchegbu</b>Investor</p>
 			<div class="star-rating">
 				<ul class="list-inline">
