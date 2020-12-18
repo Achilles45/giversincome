@@ -3,12 +3,12 @@
       <div class="container">
         <div class="row">
             <div class="col-md-3">
-                 <i class="fa fa-phone"></i>&nbsp;&nbsp;  07043820741&nbsp;  (Mon - Fri, 9am to 4pm)
+                 <i class="fa fa-phone"></i>&nbsp;&nbsp;  07018400385&nbsp;  (Mon - Fri, 9am to 4pm)
             </div>
-            <div class="col-md-3">
-                 <i class="fa fa-envelope"></i>&nbsp;&nbsp; giversincomeinvestment@gmail.com
+            <div class="col-md-4">
+                 <i class="fa fa-envelope"></i>&nbsp;&nbsp; brightfutureinvestment45@gmail.com
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <i class="fa fa-cubes"></i>&nbsp;&nbsp; Note that Terms and conditions applies to all investment plans
             </div>
         </div>
