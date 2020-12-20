@@ -8,7 +8,7 @@
               <h2>Bright Future <span class="orange">Investment Company</span></h2>
               <hr>
               <p>Bright Future Investment Company is an indigenous company with experts for sustainability in business practices. We have vested interests in Distributions of creal marketing, deals, currency trading and other profitable ways to make interest.
-            Givers Income Investment Company is an online and offline network marketing organization and is born out of the need to build up people financially. We are passionate about empowering people and liberating them from poverty to enable them meet their financial freedom with our proven system.
+            Bright Future Investment Company is an online and offline network marketing organization and is born out of the need to build up people financially. We are passionate about empowering people and liberating them from poverty to enable them meet their financial freedom with our proven system.
 
             We offer the best way that is Madeline easy to deposit money into your Wallets!
 
